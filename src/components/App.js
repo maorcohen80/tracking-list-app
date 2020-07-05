@@ -11,7 +11,7 @@ const App = () => {
       <BrowserRouter>
         <Nav />
         <div className="ui container">
-          <Route path="/tracking-list-app" exact component={Home} />
+          <Route path="/tracking-list-app/" component={Home} />
           <Route path="/received" component={RecivedItemsList} />
         </div>
       </BrowserRouter>
