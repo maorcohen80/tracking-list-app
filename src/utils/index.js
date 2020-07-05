@@ -1,0 +1,1 @@
+export const SHOP_LIST = ["amazon", "ebay", "shopify", "aliexpress"];
