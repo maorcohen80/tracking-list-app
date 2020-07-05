@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tracking-list-app/static/js/main.d21b1296.chunk.js",
-    "main.js.map": "/tracking-list-app/static/js/main.d21b1296.chunk.js.map",
+    "main.js": "/tracking-list-app/static/js/main.271e4ba1.chunk.js",
+    "main.js.map": "/tracking-list-app/static/js/main.271e4ba1.chunk.js.map",
     "runtime-main.js": "/tracking-list-app/static/js/runtime-main.9d1eeb9e.js",
     "runtime-main.js.map": "/tracking-list-app/static/js/runtime-main.9d1eeb9e.js.map",
     "static/js/2.b21bb5ab.chunk.js": "/tracking-list-app/static/js/2.b21bb5ab.chunk.js",
     "static/js/2.b21bb5ab.chunk.js.map": "/tracking-list-app/static/js/2.b21bb5ab.chunk.js.map",
     "index.html": "/tracking-list-app/index.html",
-    "precache-manifest.53495f1c582f78a24fc3d81139ec57a1.js": "/tracking-list-app/precache-manifest.53495f1c582f78a24fc3d81139ec57a1.js",
+    "precache-manifest.b34552e0aa35505988f9bef12ca5b170.js": "/tracking-list-app/precache-manifest.b34552e0aa35505988f9bef12ca5b170.js",
     "service-worker.js": "/tracking-list-app/service-worker.js",
     "static/js/2.b21bb5ab.chunk.js.LICENSE.txt": "/tracking-list-app/static/js/2.b21bb5ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d1eeb9e.js",
     "static/js/2.b21bb5ab.chunk.js",
-    "static/js/main.d21b1296.chunk.js"
+    "static/js/main.271e4ba1.chunk.js"
   ]
 }
